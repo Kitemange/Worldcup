@@ -11,7 +11,7 @@ The goal was to explore trends as well as patterns in the FIFA World Cup tournam
  3. **Goal statistics**- With the statistics what is shown regarding the number of goals over the years.
 
 # Dataset
-Find the dataset [here](https://github.com/nyarotoyi/SQL-Portfolio/blob/main/llin_%20distribution_analysis/amf_distributions.csv)
+Find the dataset [here](https://github.com/Kitemange/Worldcup/blob/230a490af53876543bcadad59b5697781d004c41/world_cup_results%20(1).xlsx)
 and the script [here](https://github.com/nyarotoyi/SQL-Portfolio/blob/main/llin_%20distribution_analysis/lln_distributions_analysis.sql).
 
 The dataset was provided by the [NexTech Academy team](https://github.com/NexTech-Ac/data-analysis-bootcamp-2024/blob/main/assignments/sql-assignment/README.md). It contains the following columns:
